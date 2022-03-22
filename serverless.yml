@@ -1,4 +1,4 @@
-service: serverless-popup-complete
+service: serverless-design-patterns-workshop
 frameworkVersion: '3'
 
 provider:
